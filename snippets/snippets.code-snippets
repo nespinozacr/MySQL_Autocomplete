@@ -1,0 +1,1693 @@
+{
+	"ADD": {
+		"prefix": "add",
+		"body": "ADD"
+	},
+	"ACCESSIBLE": {
+		"prefix": "accessible",
+		"body": "ACCESSIBLE"
+	},
+	"ACTION": {
+		"prefix": "action",
+		"body": "ACTION"
+	},
+	"AFTER": {
+		"prefix": "after",
+		"body": "AFTER"
+	},
+	"ALGORITHM": {
+		"prefix": "algorithm",
+		"body": "ALGORITHM"
+	},
+	"ALL": {
+		"prefix": "all",
+		"body": "ALL"
+	},
+	"ALTER": {
+		"prefix": "alter",
+		"body": "ALTER"
+	},
+	"AND": {
+		"prefix": "and",
+		"body": "AND"
+	},
+	"ANALYZE": {
+		"prefix": "analyze",
+		"body": "ANALYZE"
+	},
+	"ANY": {
+		"prefix": "any",
+		"body": "ANY"
+	},
+	"AS": {
+		"prefix": "as",
+		"body": "AS"
+	},
+	"ASC": {
+		"prefix": "asc",
+		"body": "ASC"
+	},
+	"ASENSITIVE": {
+		"prefix": "asensitive",
+		"body": "ASENSITIVE"
+	},
+	"AT": {
+		"prefix": "at",
+		"body": "AT"
+	},
+	"AUTOCOMMIT": {
+		"prefix": "autocommit",
+		"body": "AUTOCOMMIT"
+	},
+	"AUTHORS": {
+		"prefix": "authors",
+		"body": "AUTHORS"
+	},
+	"AUTO_INCREMENT": {
+		"prefix": "auto_increment",
+		"body": "AUTO_INCREMENT"
+	},
+	"AVG": {
+		"prefix": "avg",
+		"body": "AVG"
+	},
+	"AVG_ROW_LENGTH": {
+		"prefix": "avg_row_length",
+		"body": "AVG_ROW_LENGTH"
+	},
+	"BACKUP": {
+		"prefix": "backup",
+		"body": "BACKUP"
+	},
+	"BEFORE": {
+		"prefix": "before",
+		"body": "BEFORE"
+	},
+	"BEGIN": {
+		"prefix": "begin",
+		"body": "BEGIN"
+	},
+	"BETWEEN": {
+		"prefix": "between",
+		"body": "BETWEEN"
+	},
+	"BIGLONG": {
+		"prefix": "biglong",
+		"body": "BIGLONG"
+	},
+	"BINARY": {
+		"prefix": "binary",
+		"body": "BINARY"
+	},
+	"BINLOG": {
+		"prefix": "binlog",
+		"body": "BINLOG"
+	},
+	"BOTH": {
+		"prefix": "both",
+		"body": "BOTH"
+	},
+	"BTREE": {
+		"prefix": "btree",
+		"body": "BTREE"
+	},
+	"BY": {
+		"prefix": "by",
+		"body": "BY"
+	},
+	"CACHE": {
+		"prefix": "cache",
+		"body": "CACHE"
+	},
+	"CALL": {
+		"prefix": "call",
+		"body": "CALL"
+	},
+	"CASCADE": {
+		"prefix": "cascade",
+		"body": "CASCADE"
+	},
+	"CASCADED": {
+		"prefix": "cascaded",
+		"body": "CASCADED"
+	},
+	"CASE": {
+		"prefix": "case",
+		"body": "CASE"
+	},
+	"CATALOG_NAME": {
+		"prefix": "catalog_name",
+		"body": "CATALOG_NAME"
+	},
+	"CHAIN": {
+		"prefix": "chain",
+		"body": "CHAIN"
+	},
+	"CHANGE": {
+		"prefix": "change",
+		"body": "CHANGE"
+	},
+	"CHANGED": {
+		"prefix": "changed",
+		"body": "CHANGED"
+	},
+	"CHARACTER": {
+		"prefix": "character",
+		"body": "CHARACTER"
+	},
+	"CHECKPOINT": {
+		"prefix": "checkpoint",
+		"body": "CHECKPOINT"
+	},
+	"CHECKSUM": {
+		"prefix": "checksum",
+		"body": "CHECKSUM"
+	},
+	"CLASS_ORIGIN": {
+		"prefix": "class_origin",
+		"body": "CLASS_ORIGIN"
+	},
+	"CLIENT_STATISTICS": {
+		"prefix": "client_statistics",
+		"body": "CLIENT_STATISTICS"
+	},
+	"CLOSE": {
+		"prefix": "close",
+		"body": "CLOSE"
+	},
+	"COALESCE": {
+		"prefix": "coalesce",
+		"body": "COALESCE"
+	},
+	"CODE": {
+		"prefix": "code",
+		"body": "CODE"
+	},
+	"COLLATION": {
+		"prefix": "collation",
+		"body": "COLLATION"
+	},
+	"COLLATIONS": {
+		"prefix": "collations",
+		"body": "COLLATIONS"
+	},
+    "CREATE": {
+		"prefix": "create",
+		"body": "CREATE"
+	},
+	"COLUMN": {
+		"prefix": "column",
+		"body": "COLUMN"
+	},
+	"COLUMNS": {
+		"prefix": "columns",
+		"body": "COLUMNS"
+	},
+	"COLLATE": {
+		"prefix": "collate",
+		"body": "COLLATE"
+	},
+	"COMMENT": {
+		"prefix": "comment",
+		"body": "COMMENT"
+	},
+	"COMMIT": {
+		"prefix": "commit",
+		"body": "COMMIT"
+	},
+	"COMMITED": {
+		"prefix": "commited",
+		"body": "COMMITED"
+	},
+	"COMPLETION": {
+		"prefix": "completion",
+		"body": "COMPLETION"
+	},
+	"CONCURRENT": {
+		"prefix": "concurrent",
+		"body": "CONCURRENT"
+	},
+	"CONDITION": {
+		"prefix": "condition",
+		"body": "CONDITION"
+	},
+	"CONNECTION": {
+		"prefix": "connection",
+		"body": "CONNECTION"
+	},
+	"CONSISTENT": {
+		"prefix": "consistent",
+		"body": "CONSISTENT"
+	},
+	"CONSTRAINT": {
+		"prefix": "constraint",
+		"body": "CONSTRAINT"
+	},
+	"CONTAINS": {
+		"prefix": "contains",
+		"body": "CONTAINS"
+	},
+	"CONTINUE": {
+		"prefix": "continue",
+		"body": "CONTINUE"
+	},
+	"CONTRIBUTORS": {
+		"prefix": "contributors",
+		"body": "CONTRIBUTORS"
+	},
+	"COUNT": {
+		"prefix": "count",
+		"body": "COUNT"
+	},
+	"CONVERT": {
+		"prefix": "convert",
+		"body": "CONVERT"
+	},
+	"CROSS": {
+		"prefix": "cross",
+		"body": "CROSS"
+	},
+	"CHARSET": {
+		"prefix": "charset",
+		"body": "CHARSET"
+	},
+	"CHECK": {
+		"prefix": "check",
+		"body": "CHECK"
+	},
+	"CURRENT": {
+		"prefix": "current",
+		"body": "CURRENT"
+	},
+	"CURRENT_DATE": {
+		"prefix": "current_date",
+		"body": "CURRENT_DATE"
+	},
+	"CURRENT_TIME": {
+		"prefix": "current_time",
+		"body": "CURRENT_TIME"
+	},
+	"CURRENT_TIMESTAMP": {
+		"prefix": "current_timestamp",
+		"body": "CURRENT_TIMESTAMP"
+	},
+	"CURRENT_USER": {
+		"prefix": "current_user",
+		"body": "CURRENT_USER"
+	},
+	"CURSOR": {
+		"prefix": "cursor",
+		"body": "CURSOR"
+	},
+	"DATA": {
+		"prefix": "data",
+		"body": "DATA"
+	},
+	"DATABASE": {
+		"prefix": "database",
+		"body": "DATABASE"
+	},
+	"DATABASES": {
+		"prefix": "databases",
+		"body": "DATABASES"
+	},
+	"DAY_HOUR": {
+		"prefix": "day_hour",
+		"body": "DAY_HOUR"
+	},
+	"DAY_MICROSECOND": {
+		"prefix": "day_microsecond",
+		"body": "DAY_MICROSECOND"
+	},
+	"DAY_MINUTE": {
+		"prefix": "day_minute",
+		"body": "DAY_MINUTE"
+	},
+	"DAY_SECOND": {
+		"prefix": "day_second",
+		"body": "DAY_SECOND"
+	},
+	"DATE": {
+		"prefix": "date",
+		"body": "DATE"
+	},
+	"DATETIME": {
+		"prefix": "datetime",
+		"body": "DATETIME"
+	},
+	"DEALLOCATE": {
+		"prefix": "deallocate",
+		"body": "DEALLOCATE"
+	},
+	"DEC": {
+		"prefix": "dec",
+		"body": "DEC"
+	},
+	"DECLARE": {
+		"prefix": "declare",
+		"body": "DECLARE"
+	},
+	"DELAY_KEY_WRITE": {
+		"prefix": "delay_key_write",
+		"body": "DELAY_KEY_WRITE"
+	},
+	"DELAYED": {
+		"prefix": "delayed",
+		"body": "DELAYED"
+	},
+	"DELIMITER": {
+		"prefix": "delimiter",
+		"body": "DELIMITER"
+	},
+	"DELETE": {
+		"prefix": "delete",
+		"body": "DELETE"
+	},
+	"DESC": {
+		"prefix": "desc",
+		"body": "DESC"
+	},
+	"DESC_KEY_FILE": {
+		"prefix": "desc_key_file",
+		"body": "DESC_KEY_FILE"
+	},
+	"DESCRIBE": {
+		"prefix": "describe",
+		"body": "DESCRIBE"
+	},
+	"DETERMINISTIC": {
+		"prefix": "deterministic",
+		"body": "DETERMINISTIC"
+	},
+	"DEV_POP": {
+		"prefix": "dev_pop",
+		"body": "DEV_POP"
+	},
+	"DEV_SAMP": {
+		"prefix": "dev_samp",
+		"body": "DEV_SAMP"
+	},
+	"DEVIANCE": {
+		"prefix": "deviance",
+		"body": "DEVIANCE"
+	},
+	"DIAGNOSTICS": {
+		"prefix": "diagnostics",
+		"body": "DIAGNOSTICS"
+	},
+	"DIRECTORY": {
+		"prefix": "directory",
+		"body": "DIRECTORY"
+	},
+	"DISABLE": {
+		"prefix": "disable",
+		"body": "DISABLE"
+	},
+	"DISCARD": {
+		"prefix": "discard",
+		"body": "DISCARD"
+	},
+	"DISTINCT": {
+		"prefix": "distinct",
+		"body": "DISTINCT"
+	},
+	"DISTINCTROW": {
+		"prefix": "distinctrow",
+		"body": "DISTINCTROW"
+	},
+	"DIV": {
+		"prefix": "div",
+		"body": "DIV"
+	},
+	"DUAL": {
+		"prefix": "dual",
+		"body": "DUAL"
+	},
+	"DUMPFILE": {
+		"prefix": "dumpfile",
+		"body": "DUMPFILE"
+	},
+	"DO": {
+		"prefix": "do",
+		"body": "DO"
+	},
+	"DEFAULT": {
+		"prefix": "default",
+		"body": "DEFAULT"
+	},
+	"DROP": {
+		"prefix": "drop",
+		"body": "DROP"
+	},
+	"EACH": {
+		"prefix": "each",
+		"body": "EACH"
+	},
+	"ELSEIF": {
+		"prefix": "elseif",
+		"body": "ELSEIF"
+	},
+	"ENABLE": {
+		"prefix": "enable",
+		"body": "ENABLE"
+	},
+	"ENCLOSED": {
+		"prefix": "enclosed",
+		"body": "ENCLOSED"
+	},
+	"END": {
+		"prefix": "end",
+		"body": "END"
+	},
+	"ENDS": {
+		"prefix": "ends",
+		"body": "ENDS"
+	},
+	"ENGINE": {
+		"prefix": "engine",
+		"body": "ENGINE"
+	},
+	"ENGINES": {
+		"prefix": "engines",
+		"body": "ENGINES"
+	},
+	"ENUM": {
+		"prefix": "enum",
+		"body": "ENUM"
+	},
+	"ERRORS": {
+		"prefix": "errors",
+		"body": "ERRORS"
+	},
+	"ESCAPE": {
+		"prefix": "escape",
+		"body": "ESCAPE"
+	},
+	"ESCAPED": {
+		"prefix": "escaped",
+		"body": "ESCAPED"
+	},
+	"EVEN": {
+		"prefix": "even",
+		"body": "EVEN"
+	},
+	"EVENT": {
+		"prefix": "event",
+		"body": "EVENT"
+	},
+	"EVENTS": {
+		"prefix": "events",
+		"body": "EVENTS"
+	},
+	"EVERY": {
+		"prefix": "every",
+		"body": "EVERY"
+	},
+	"EXECUTE": {
+		"prefix": "execute",
+		"body": "EXECUTE"
+	},
+	"EXISTS": {
+		"prefix": "exists",
+		"body": "EXISTS"
+	},
+	"EXIT": {
+		"prefix": "exit",
+		"body": "EXIT"
+	},
+	"EXPLAIN": {
+		"prefix": "explain",
+		"body": "EXPLAIN"
+	},
+	"EXTENDED": {
+		"prefix": "extended",
+		"body": "EXTENDED"
+	},
+	"ELSE": {
+		"prefix": "else",
+		"body": "ELSE"
+	},
+	"FOR": {
+		"prefix": "for",
+		"body": "FOR"
+	},
+	"FOREIGN": {
+		"prefix": "foreign",
+		"body": "FOREIGN"
+	},
+	"FAST": {
+		"prefix": "fast",
+		"body": "FAST"
+	},
+	"FETCH": {
+		"prefix": "fetch",
+		"body": "FETCH"
+	},
+	"FIELD": {
+		"prefix": "field",
+		"body": "FIELD"
+	},
+	"FIELDS": {
+		"prefix": "fields",
+		"body": "FIELDS"
+	},
+	"FIRST": {
+		"prefix": "first",
+		"body": "FIRST"
+	},
+	"FLUSH": {
+		"prefix": "flush",
+		"body": "FLUSH"
+	},
+	"FORCE": {
+		"prefix": "force",
+		"body": "FORCE"
+	},
+	"FOUND_ROWS": {
+		"prefix": "found_rows",
+		"body": "FOUND_ROWS"
+	},
+	"FULL": {
+		"prefix": "full",
+		"body": "FULL"
+	},
+	"FULLTEXT": {
+		"prefix": "fulltext",
+		"body": "FULLTEXT"
+	},
+	"FUNCTION": {
+		"prefix": "function",
+		"body": "FUNCTION"
+	},
+	"FROM": {
+		"prefix": "from",
+		"body": "FROM"
+	},
+	"GENERAL": {
+		"prefix": "general",
+		"body": "GENERAL"
+	},
+	"GET": {
+		"prefix": "get",
+		"body": "GET"
+	},
+	"GLOBAL": {
+		"prefix": "global",
+		"body": "GLOBAL"
+	},
+	"GRANT": {
+		"prefix": "grant",
+		"body": "GRANT"
+	},
+	"GRANTS": {
+		"prefix": "grants",
+		"body": "GRANTS"
+	},
+	"GROUP": {
+		"prefix": "groups",
+		"body": "GROUP"
+	},
+	"GROUP_CONCAT": {
+		"prefix": "group_concat",
+		"body": "GROUP_CONCAT"
+	},
+	"HAVING": {
+		"prefix": "having",
+		"body": "HAVING"
+	},
+	"HANDLER": {
+		"prefix": "handler",
+		"body": "HANDLER"
+	},
+	"HAST": {
+		"prefix": "hast",
+		"body": "HAST"
+	},
+	"HELP": {
+		"prefix": "help",
+		"body": "HELP"
+	},
+	"HIGH_PRIORITY": {
+		"prefix": "high_priority",
+		"body": "HIGH_PRIORITY"
+	},
+	"HOST": {
+		"prefix": "host",
+		"body": "HOST"
+	},
+	"HOSTS": {
+		"prefix": "hosts",
+		"body": "HOSTS"
+	},
+	"HOUR_MICROSECOND": {
+		"prefix": "hour_microsecond",
+		"body": "HOUR_MICROSECOND"
+	},
+	"HOUR_MINUTE": {
+		"prefix": "hour_minute",
+		"body": "HOUR_MINUTE"
+	},
+	"HOUR_SECOND": {
+		"prefix": "hour_second",
+		"body": "HOUR_SECOND"
+	},
+	"IF": {
+		"prefix": "if",
+		"body": "IF"
+	},
+	"IGNORE": {
+		"prefix": "ignore",
+		"body": "IGNORE"
+	},
+	"IGNORE_SERVER_IDS": {
+		"prefix": "ignore_server_ids",
+		"body": "IGNORE_SERVER_IDS"
+	},
+	"IMPORT": {
+		"prefix": "import",
+		"body": "IMPORT"
+	},
+	"INDEX_STATISTICS": {
+		"prefix": "index_statistics",
+		"body": "INDEX_STATISTICS"
+	},
+	"INFILE": {
+		"prefix": "infile",
+		"body": "INFILE"
+	},
+	"INOUT": {
+		"prefix": "inout",
+		"body": "INOUT"
+	},
+	"INSENSITIVE": {
+		"prefix": "insensitive",
+		"body": "INSENSITIVE"
+	},
+	"INSERT_METHOD": {
+		"prefix": "insert_method",
+		"body": "INSERT_METHOD"
+	},
+	"INSTALL": {
+		"prefix": "install",
+		"body": "INSTALL"
+	},
+	"INTERVAL": {
+		"prefix": "interval",
+		"body": "INTERVAL"
+	},
+	"INVOKER": {
+		"prefix": "invoker",
+		"body": "INVOKER"
+	},
+	"ISOLATION": {
+		"prefix": "isolation",
+		"body": "ISOLATION"
+	},
+	"ITERATE": {
+		"prefix": "iterate",
+		"body": "ITERATE"
+	},
+	"IN": {
+		"prefix": "in",
+		"body": "IN"
+	},
+	"INDEX": {
+		"prefix": "index",
+		"body": "INDEX"
+	},
+	"INSERT": {
+		"prefix": "insert",
+		"body": "INSERT"
+	},
+	"INTO": {
+		"prefix": "into",
+		"body": "INTO"
+	},
+	"INNER": {
+		"prefix": "inner",
+		"body": "INNER"
+	},
+	"INNODB": {
+		"prefix": "innodb",
+		"body": "INNODB"
+	},
+	"IS": {
+		"prefix": "is",
+		"body": "IS"
+	},
+	"JOIN": {
+		"prefix": "join",
+		"body": "JOIN"
+	},
+	"KEY": {
+		"prefix": "key",
+		"body": "KEY"
+	},
+	"KEYS": {
+		"prefix": "keys",
+		"body": "KEYS"
+	},
+	"KILL": {
+		"prefix": "kill",
+		"body": "KILL"
+	},
+	"LANGUAGE": {
+		"prefix": "language",
+		"body": "LANGUAGE"
+	},
+	"LAST": {
+		"prefix": "last",
+		"body": "LAST"
+	},
+	"LEADING": {
+		"prefix": "leading",
+		"body": "LEADING"
+	},
+	"LEAVE": {
+		"prefix": "leave",
+		"body": "LEAVE"
+	},
+	"LEVEL": {
+		"prefix": "level",
+		"body": "LEVEL"
+	},
+	"LEFT": {
+		"prefix": "left",
+		"body": "LEFT"
+	},
+	"LIKE": {
+		"prefix": "like",
+		"body": "LIKE"
+	},
+	"LIMIT": {
+		"prefix": "limit",
+		"body": "LIMIT"
+	},
+	"LINEAR": {
+		"prefix": "linear",
+		"body": "LINEAR"
+	},
+	"LINES": {
+		"prefix": "lines",
+		"body": "LINES"
+	},
+	"LIST": {
+		"prefix": "list",
+		"body": "LIST"
+	},
+	"LOAD": {
+		"prefix": "load",
+		"body": "LOAD"
+	},
+	"LOCAL": {
+		"prefix": "local",
+		"body": "LOCAL"
+	},
+	"LOCALTIME": {
+		"prefix": "localtime",
+		"body": "LOCALTIME"
+	},
+	"LOCALTIMESTAMP": {
+		"prefix": "localtimestamp",
+		"body": "LOCALTIMESTAMP"
+	},
+	"LOCK": {
+		"prefix": "lock",
+		"body": "LOCK"
+	},
+	"LOGS": {
+		"prefix": "logs",
+		"body": "LOGS"
+	},
+	"LOW_PRIORITY": {
+		"prefix": "low_priority",
+		"body": "LOW_PRIORITY"
+	},
+	"LOOP": {
+		"prefix": "loop",
+		"body": "LOOP"
+	},
+	"MASTER": {
+		"prefix": "master",
+		"body": "MASTER"
+	},
+	"MASTER_HEARTBEAT_PERIOD": {
+		"prefix": "master_heartbeat_period",
+		"body": "MASTER_HEARTBEAT_PERIOD"
+	},
+	"MASTER_SSL_VERIFY_SERVER_CERT": {
+		"prefix": "master_ssl_verify_server_cert",
+		"body": "MASTER_SSL_VERIFY_SERVER_CERT"
+	},
+	"MASTERS": {
+		"prefix": "masters",
+		"body": "MASTERS"
+	},
+	"MATCH": {
+		"prefix": "match",
+		"body": "MATCH"
+	},
+	"MAX": {
+		"prefix": "max",
+		"body": "MAX"
+	},
+	"MAX_ROWS": {
+		"prefix": "max_rows",
+		"body": "MAX_ROWS"
+	},
+	"MAXVALUE": {
+		"prefix": "maxvalue",
+		"body": "MAXVALUE"
+	},
+	"MESSAGE_TEXT": {
+		"prefix": "message_text",
+		"body": "MESSAGE_TEXT"
+	},
+	"MIDDLEINT": {
+		"prefix": "middleint",
+		"body": "MIDDLEINT"
+	},
+	"MIGRATE": {
+		"prefix": "migrate",
+		"body": "MIGRATE"
+	},
+	"MIN": {
+		"prefix": "min",
+		"body": "MIN"
+	},
+	"MIN_ROWS": {
+		"prefix": "min_rows",
+		"body": "MIN_ROWS"
+	},
+	"MINUTE_MICROSECOND": {
+		"prefix": "minute_microsecond",
+		"body": "MINUTE_MICROSECOND"
+	},
+	"MINUTE_SECOND": {
+		"prefix": "minute_second",
+		"body": "MINUTE_SECOND"
+	},
+	"MOD": {
+		"prefix": "mod",
+		"body": "MOD"
+	},
+	"MODE": {
+		"prefix": "mode",
+		"body": "MODE"
+	},
+	"MODIFIES": {
+		"prefix": "modifies",
+		"body": "MODIFIES"
+	},
+	"MODIFY": {
+		"prefix": "modify",
+		"body": "MODIFY"
+	},
+	"MUTEX": {
+		"prefix": "mutex",
+		"body": "MUTEX"
+	},
+	"MYSQL_ERRNO": {
+		"prefix": "mysql_errno",
+		"body": "MYSQL_ERRNO"
+	},
+	"NATURAL": {
+		"prefix": "natural",
+		"body": "NATURAL"
+	},
+	"NEXT": {
+		"prefix": "next",
+		"body": "NEXT"
+	},
+	"NO": {
+		"prefix": "no",
+		"body": "NO"
+	},
+	"NO_WRITE_TO_BINLOG": {
+		"prefix": "no_write_to_binlog",
+		"body": "NO_WRITE_TO_BINLOG"
+	},
+	"NOT": {
+		"prefix": "not",
+		"body": "NOT"
+	},
+	"NULL": {
+		"prefix": "null",
+		"body": "NULL"
+	},
+	"OUTER": {
+		"prefix": "outer",
+		"body": "OUTER"
+	},
+	"ON": {
+		"prefix": "on",
+		"body": "ON"
+	},
+	"ORDER": {
+		"prefix": "order",
+		"body": "ORDER"
+	},
+	"OR": {
+		"prefix": "or",
+		"body": "OR"
+	},
+	"OFFLINE": {
+		"prefix": "offline",
+		"body": "OFFLINE"
+	},
+	"OFFSET": {
+		"prefix": "offset",
+		"body": "OFFSET"
+	},
+	"ONE": {
+		"prefix": "one",
+		"body": "ONE"
+	},
+	"ONLINE": {
+		"prefix": "online",
+		"body": "ONLINE"
+	},
+	"OPEN": {
+		"prefix": "open",
+		"body": "OPEN"
+	},
+	"OPTIMIZE": {
+		"prefix": "optimize",
+		"body": "OPTIMIZE"
+	},
+	"OPTION": {
+		"prefix": "option",
+		"body": "OPTION"
+	},
+	"OPTIONALLY": {
+		"prefix": "optionally",
+		"body": "OPTIONALLY"
+	},
+	"OUT": {
+		"prefix": "out",
+		"body": "OUT"
+	},
+	"OUTFILE": {
+		"prefix": "outfile",
+		"body": "OUTFILE"
+	},
+	"PACK_KEYS": {
+		"prefix": "pack_keys",
+		"body": "PACK_KEYS"
+	},
+	"PARSER": {
+		"prefix": "parser",
+		"body": "PARSER"
+	},
+	"PARTITION": {
+		"prefix": "partition",
+		"body": "PARTITION"
+	},
+	"PARTITIONS": {
+		"prefix": "partitions",
+		"body": "PARTITIONS"
+	},
+	"PASSWORD": {
+		"prefix": "password",
+		"body": "PASSWORD"
+	},
+	"PHASE": {
+		"prefix": "phase",
+		"body": "PHASE"
+	},
+	"PLUGIN": {
+		"prefix": "plugin",
+		"body": "PLUGIN"
+	},
+	"PLUGINS": {
+		"prefix": "plugins",
+		"body": "PLUGINS"
+	},
+	"PREPARE": {
+		"prefix": "prepare",
+		"body": "PREPARE"
+	},
+	"PRESERVE": {
+		"prefix": "preserve",
+		"body": "PRESERVE"
+	},
+	"PREV": {
+		"prefix": "prev",
+		"body": "PREV"
+	},
+	"PRIMARY": {
+		"prefix": "primary",
+		"body": "PRIMARY"
+	},
+	"PRIVILEGES": {
+		"prefix": "privileges",
+		"body": "PRIVILEGES"
+	},
+	"PROCESSLIST": {
+		"prefix": "processlist",
+		"body": "PROCESSLIST"
+	},
+	"PROFILE": {
+		"prefix": "profile",
+		"body": "PROFILE"
+	},
+	"PROFILES": {
+		"prefix": "profiles",
+		"body": "PROFILES"
+	},
+	"PROCEDURE": {
+		"prefix": "procedure",
+		"body": "PROCEDURE"
+	},
+	"PURGE": {
+		"prefix": "purge",
+		"body": "PURGE"
+	},
+	"QUERY": {
+		"prefix": "query",
+		"body": "QUERY"
+	},
+	"QUICK": {
+		"prefix": "qick",
+		"body": "QUICK"
+	},
+	"RANGE": {
+		"prefix": "range",
+		"body": "RANGE"
+	},
+	"READ": {
+		"prefix": "read",
+		"body": "READ"
+	},
+	"READ_WRITE": {
+		"prefix": "read_write",
+		"body": "READ_WRITE"
+	},
+	"READS": {
+		"prefix": "reads",
+		"body": "READS"
+	},
+	"REAL": {
+		"prefix": "real",
+		"body": "REAL"
+	},
+	"REBUILD": {
+		"prefix": "rebuild",
+		"body": "REBUILD"
+	},
+	"RECOVER": {
+		"prefix": "recover",
+		"body": "RECOVER"
+	},
+	"REFERENCES": {
+		"prefix": "references",
+		"body": "REFERENCES"
+	},
+	"REGEXP": {
+		"prefix": "regexp",
+		"body": "REGEXP"
+	},
+	"RELAYLOG": {
+		"prefix": "relaylog",
+		"body": "RELAYLOG"
+	},
+	"RELEASE": {
+		"prefix": "release",
+		"body": "RELEASE"
+	},
+	"REMOVE": {
+		"prefix": "remove",
+		"body": "REMOVE"
+	},
+	"RENAME": {
+		"prefix": "rename",
+		"body": "RENAME"
+	},
+	"REORGANIZE": {
+		"prefix": "reorganize",
+		"body": "REORGANIZE"
+	},
+	"REPAIR": {
+		"prefix": "repair",
+		"body": "REPAIR"
+	},
+	"REPEATABLE": {
+		"prefix": "repeatable",
+		"body": "REPEATABLE"
+	},
+	"REPLACE": {
+		"prefix": "replace",
+		"body": "REPLACE"
+	},
+	"REQUIRE": {
+		"prefix": "require",
+		"body": "REQUIRE"
+	},
+	"RESIGNAL": {
+		"prefix": "resignal",
+		"body": "RESIGNAL"
+	},
+	"RESTRICT": {
+		"prefix": "restrict",
+		"body": "RESTRICT"
+	},
+	"RESUME": {
+		"prefix": "resume",
+		"body": "RESUME"
+	},
+	"RETURN": {
+		"prefix": "return",
+		"body": "RETURN"
+	},
+	"RETURNS": {
+		"prefix": "returns",
+		"body": "RETURNS"
+	},
+	"REVOKE": {
+		"prefix": "revoke",
+		"body": "REVOKE"
+	},
+	"RIGHT": {
+		"prefix": "right",
+		"body": "RIGHT"
+	},
+	"RLIKE": {
+		"prefix": "rlike",
+		"body": "RLIKE"
+	},
+	"ROLLBACK": {
+		"prefix": "rollback",
+		"body": "ROLLBACK"
+	},
+	"ROLLUP": {
+		"prefix": "rollup",
+		"body": "ROLLUP"
+	},
+	"ROW": {
+		"prefix": "row",
+		"body": "ROW"
+	},
+	"ROW_FORMAT": {
+		"prefix": "row_format",
+		"body": "ROW_FORMAT"
+	},
+	"RTREE": {
+		"prefix": "rtree",
+		"body": "RTREE"
+	},
+	"REPEAT": {
+		"prefix": "repeat",
+		"body": "REPEAT"
+	},
+	"ROWNUM": {
+		"prefix": "rownum",
+		"body": "ROWNUM"
+	},
+	"SAVEPOINT": {
+		"prefix": "savepoint",
+		"body": "SAVEPOINT"
+	},
+	"SELECT": {
+		"prefix": "select",
+		"body": "SELECT"
+	},
+	"SCHEDULE": {
+		"prefix": "schedule",
+		"body": "SCHEDULE"
+	},
+	"SCHEMA": {
+		"prefix": "schema",
+		"body": "SCHEMA"
+	},
+	"SCHEMA_NAME": {
+		"prefix": "schema_name",
+		"body": "SCHEMA_NAME"
+	},
+	"SCHEMAS": {
+		"prefix": "schemas",
+		"body": "SCHEMAS"
+	},
+	"SECOND_MICROSECOND": {
+		"prefix": "second_microsecond",
+		"body": "SECOND_MICROSECOND"
+	},
+	"SECURITY": {
+		"prefix": "security",
+		"body": "SECURITY"
+	},
+	"SENSITIVE": {
+		"prefix": "sensitive",
+		"body": "SENSITIVE"
+	},
+	"SEPARATOR": {
+		"prefix": "separator",
+		"body": "SEPARATOR"
+	},
+	"SERIALIZABLE": {
+		"prefix": "serializable",
+		"body": "SERIALIZABLE"
+	},
+	"SERVER": {
+		"prefix": "server",
+		"body": "SERVER"
+	},
+	"SESSION": {
+		"prefix": "session",
+		"body": "SESSION"
+	},
+	"SHARE": {
+		"prefix": "share",
+		"body": "SHARE"
+	},
+	"SHOW": {
+		"prefix": "show",
+		"body": "SHOW"
+	},
+	"SIGNAL": {
+		"prefix": "signal",
+		"body": "SIGNAL"
+	},
+	"SLAVE": {
+		"prefix": "slave",
+		"body": "SLAVE"
+	},
+	"SLOW": {
+		"prefix": "slow",
+		"body": "SLOW"
+	},
+	"SMALLINT": {
+		"prefix": "smallint",
+		"body": "SMALLINT"
+	},
+	"SNAPSHOT": {
+		"prefix": "snapshot",
+		"body": "SNAPSHOT"
+	},
+	"SONAME": {
+		"prefix": "soname",
+		"body": "SONAME"
+	},
+	"SPATIAL": {
+		"prefix": "spatial",
+		"body": "SPATIAL"
+	},
+	"SPECIFIC": {
+		"prefix": "specific",
+		"body": "SPECIFIC"
+	},
+	"SQL": {
+		"prefix": "sql",
+		"body": "SQL"
+	},
+	"SQL_BIG_RESULT": {
+		"prefix": "sql_big_result",
+		"body": "SQL_BIG_RESULT"
+	},
+	"SQL_BUFFER_RESULT": {
+		"prefix": "sql_buffer_result",
+		"body": "SQL_BUFFER_RESULT"
+	},
+	"SQL_CACHE": {
+		"prefix": "sql_cache",
+		"body": "SQL_CACHE"
+	},
+	"SQL_CALC_FOUND_ROWS": {
+		"prefix": "sql_calc_found_rows",
+		"body": "SQL_CALC_FOUND_ROWS"
+	},
+	"SQL_NO_CACHE": {
+		"prefix": "sql_no_cache",
+		"body": "SQL_NO_CACHE"
+	},
+	"SQL_SMALL_RESULT": {
+		"prefix": "sql_small_result",
+		"body": "SQL_SMALL_RESULT"
+	},
+	"SQLEXCEPTION": {
+		"prefix": "sqlexception",
+		"body": "SQLEXCEPTION"
+	},
+	"SQLSTATE": {
+		"prefix": "sqlstate",
+		"body": "SQLSTATE"
+	},
+	"SQLWARNING": {
+		"prefix": "sqlwarning",
+		"body": "SQLWARNING"
+	},
+	"SSL": {
+		"prefix": "ssl",
+		"body": "SSL"
+	},
+	"START": {
+		"prefix": "start",
+		"body": "START"
+	},
+	"STARTING": {
+		"prefix": "starting",
+		"body": "STARTING"
+	},
+	"STARTS": {
+		"prefix": "starts",
+		"body": "STARTS"
+	},
+	"STATUS": {
+		"prefix": "status",
+		"body": "STATUS"
+	},
+	"STD": {
+		"prefix": "std",
+		"body": "STD"
+	},
+	"STDDEV": {
+		"prefix": "stddev",
+		"body": "STDDEV"
+	},
+	"STDDEV_POP": {
+		"prefix": "stddev_pop",
+		"body": "STDDEV_POP"
+	},
+	"STDDEV_SAMP": {
+		"prefix": "stddev_samp",
+		"body": "STDDEV_SAMP"
+	},
+	"STORAGE": {
+		"prefix": "storage",
+		"body": "STORAGE"
+	},
+	"STRAIGHT_JOIN": {
+		"prefix": "straight_join",
+		"body": "STRAIGHT_JOIN"
+	},
+	"SUBCLASS_ORIGIN": {
+		"prefix": "subclass_origin",
+		"body": "SUBCLASS_ORIGIN"
+	},
+	"SUM": {
+		"prefix": "sum",
+		"body": "SUM"
+	},
+	"SUSPEND": {
+		"prefix": "suspend",
+		"body": "SUSPEND"
+	},
+	"SET": {
+		"prefix": "set",
+		"body": "SET"
+	},
+	"TABLE": {
+		"prefix": "table",
+		"body": "TABLE"
+	},
+	"TABLE_NAME": {
+		"prefix": "table_name",
+		"body": "TABLE_NAME"
+	},
+	"TABLE_STATISTICS": {
+		"prefix": "table_statistics",
+		"body": "TABLE_STATISTICS"
+	},
+	"TABLES": {
+		"prefix": "tables",
+		"body": "TABLES"
+	},
+	"TABLESPACE": {
+		"prefix": "tablespace",
+		"body": "TABLESPACE"
+	},
+	"TEMPORARY": {
+		"prefix": "temporary",
+		"body": "TEMPORARY"
+	},
+	"TERMINATED": {
+		"prefix": "terminated",
+		"body": "TERMINATED"
+	},
+	"TO": {
+		"prefix": "to",
+		"body": "TO"
+	},
+	"TRAILING": {
+		"prefix": "trailing",
+		"body": "TRAILING"
+	},
+	"TRANSACTION": {
+		"prefix": "transaction",
+		"body": "TRANSACTION"
+	},
+	"TRIGGER": {
+		"prefix": "trigger",
+		"body": "TRIGGER"
+	},
+	"TRIGGERS": {
+		"prefix": "triggers",
+		"body": "TRIGGERS"
+	},
+	"TEXT": {
+		"prefix": "text",
+		"body": "TEXT"
+	},
+	"TRUNCATE": {
+		"prefix": "truncate",
+		"body": "TRUNCATE"
+	},
+	"THEN": {
+		"prefix": "then",
+		"body": "THEN"
+	},
+	"UNCOMMITTED": {
+		"prefix": "uncommitted",
+		"body": "UNCOMMITTED"
+	},
+	"UNDO": {
+		"prefix": "undo",
+		"body": "UNDO"
+	},
+	"UNINSTALL": {
+		"prefix": "uninstall",
+		"body": "UNINSTALL"
+	},
+	"UNLOCK": {
+		"prefix": "unlock",
+		"body": "UNLOCK"
+	},
+	"UPGRADE": {
+		"prefix": "upgrade",
+		"body": "UPGRADE"
+	},
+	"USAGE": {
+		"prefix": "usage",
+		"body": "USAGE"
+	},
+	"USE_FRM": {
+		"prefix": "use_frm",
+		"body": "USE_FRM"
+	},
+	"USER": {
+		"prefix": "user",
+		"body": "USER"
+	},
+	"USER_RESOURCES": {
+		"prefix": "user_resources",
+		"body": "USER_RESOURCES"
+	},
+	"USER_STATISTICS": {
+		"prefix": "user_statistics",
+		"body": "USER_STATISTICS"
+	},
+	"USING": {
+		"prefix": "using",
+		"body": "USING"
+	},
+	"UTC_DATE": {
+		"prefix": "utc_date",
+		"body": "UTC_DATE"
+	},
+	"UTC_TIME": {
+		"prefix": "utc_time",
+		"body": "UTC_TIME"
+	},
+	"UTC_TIMESTAMP": {
+		"prefix": "utc_timestamp",
+		"body": "UTC_TIMESTAMP"
+	},
+	"UNION": {
+		"prefix": "union",
+		"body": "UNION"
+	},
+	"UNIQUE": {
+		"prefix": "unique",
+		"body": "UNIQUE"
+	},
+	"UPDATE": {
+		"prefix": "update",
+		"body": "UPDATE"
+	},
+	"USE": {
+		"prefix": "use",
+		"body": "USE"
+	},
+	"VALUE": {
+		"prefix": "value",
+		"body": "VALUE"
+	},
+	"VALUES": {
+		"prefix": "values",
+		"body": "VALUES"
+	},
+	"VARIABLES": {
+		"prefix": "variables",
+		"body": "VARIABLES"
+	},
+	"VARYING": {
+		"prefix": "varying",
+		"body": "VARYING"
+	},
+	"VIEW": {
+		"prefix": "view",
+		"body": "VIEW"
+	},
+	"VIEWS": {
+		"prefix": "views",
+		"body": "VIEWS"
+	},
+	"WHERE": {
+		"prefix": "where",
+		"body": "WHERE"
+	},
+	"WARNINGS": {
+		"prefix": "warnings",
+		"body": "WARNINGS"
+	},
+	"WHEN": {
+		"prefix": "when",
+		"body": "WHEN"
+	},
+	"WHILE": {
+		"prefix": "while",
+		"body": "WHILE"
+	},
+	"WITH": {
+		"prefix": "with",
+		"body": "WITH"
+	},
+	"WORK": {
+		"prefix": "work",
+		"body": "WORK"
+	},
+	"WRITE": {
+		"prefix": "write",
+		"body": "WRITE"
+	},
+	"XA": {
+		"prefix": "xa",
+		"body": "XA"
+	},
+	"XOR": {
+		"prefix": "xor",
+		"body": "XOR"
+	},
+	"YEAR_MONTH": {
+		"prefix": "year_month",
+		"body": "YEAR_MONTH"
+	},
+	"ZEROFILL": {
+		"prefix": "zerofill",
+		"body": "ZEROFILL"
+	},
+
+
+	"INT": {
+		"prefix": "int",
+		"body": "INT"
+	},
+	"VARCHAR": {
+		"prefix": "varchar",
+		"body": "VARCHAR"
+	},
+	"DROP COLUMN": {
+		"prefix": "drop column",
+		"body": "DROP COLUMN"
+	},
+	"DROP DATABASE": {
+		"prefix": "drop database",
+		"body": "DROP DATABASE"
+	},
+	"DROP TABLE": {
+		"prefix": "drop table",
+		"body": "DROP TABLE"
+	},
+	"GROUP BY": {
+		"prefix": "group by",
+		"body": "GROUP BY"
+	},
+	"ORDER BY": {
+		"prefix": "order by",
+		"body": "ORDER BY"
+	},
+	"IS NULL": {
+		"prefix": "is null",
+		"body": "IS NULL"
+	},
+	"IS NOT NULL": {
+		"prefix": "is not null",
+		"body": "IS NOT NULL"
+	},
+	"NOT NULL": {
+		"prefix": "not null",
+		"body": "NOT NULL"
+	},
+	"PRIMARY KEY": {
+		"prefix": "primary key",
+		"body": "PRIMARY KEY"
+	},
+	"FOREIGN KEY": {
+		"prefix": "foreign key",
+		"body": "FOREIGN KEY"
+	},
+	"LEFT JOIN": {
+		"prefix": "lef join",
+		"body": "LEFT JOIN"
+	},
+	"RIGHT JOIN": {
+		"prefix": "right join",
+		"body": "RIGHT JOIN"
+	},
+	"OUTER JOIN": {
+		"prefix": "outer join",
+		"body": "OUTER JOIN"
+	},
+	"SELECT TOP": {
+		"prefix": "select top",
+		"body": "SELECT TOP"
+	},
+	"SELECT INTO": {
+		"prefix": "select into",
+		"body": "SELECT INTO",
+		"scope": "source.sql"
+	},
+	"SELECT DISTINCT": {
+		"prefix": "select distinct",
+		"body": "SELECT DISTINCT"
+	},
+	"SELECT * FROM": {
+		"prefix": "select * from",
+		"body": "SELECT * FROM"
+	},
+	"CREATE DATABASE": {
+		"prefix": "create database",
+		"body": "CREATE DATABASE"
+	},
+	"CREATE TABLE": {
+		"prefix": "create table",
+		"body": "CREATE TABLE"
+	},
+	"INSERT INTO": {
+		"prefix": "insert into",
+		"body": [
+		  "INSERT INTO ${1: table_name} ( $2 ) VALUES(",
+		  "    ${3: your_values}",
+		  ");"
+		]
+	  }
+}

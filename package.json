@@ -1,0 +1,29 @@
+{
+    "name": "mysql-autocomplete",
+    "displayName": "MySQL Autocomplete",
+    "description": "MySQL Sintax Autocomplete for Visual Studio Code",
+    "version": "0.5.0",
+    "icon": "icon.png",
+    "publisher": "nespinozacr",
+    "author": {
+        "name": "nespinozacr"
+    },
+    "repository": {
+        "url": "https://github.com/nespinozacr/MySQL_Autocomplete.git",
+        "type": "git"
+    },
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "sql",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
